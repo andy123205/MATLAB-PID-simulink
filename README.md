@@ -44,10 +44,11 @@ MATLAB simulink教學
 13.一次比較4種不同的PID參數並且比較波形，在此新用了一個元件Bus Creator
 ![simulink13](https://cloud.githubusercontent.com/assets/13445632/12026399/fd817122-adf3-11e5-9b81-b8dc8e142d1e.png)
 
-14.對於受控體" 1/(s+1)(s+2) " 給予四個不同參數的PID 並且使用步階響應做為輸入，模擬波形圖
+14.對於受控體" 1/(s+1)(s+2) " 給予四個不同參數的PID 並且使用步階響應" u(t)=30 for t>0,u(t)=0 for t<=0"做為輸入，模擬馬達轉動30度之波形圖
 ![simulink14](https://cloud.githubusercontent.com/assets/13445632/12026544/ca07f364-adf5-11e5-9476-d52374a78f0c.png)
 
 四個波形分別為
+
 1.黃色(yellow)P=1,I=0,D=0
 
 2.紫色(purple)P=5,I=0,D=0
