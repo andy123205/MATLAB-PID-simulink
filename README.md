@@ -47,5 +47,12 @@ MATLAB simulink教學
 14.對於受控體" 1/(s+1)(s+2) " 給予四個不同參數的PID 並且使用步階響應做為輸入，模擬波形圖
 ![simulink14](https://cloud.githubusercontent.com/assets/13445632/12026544/ca07f364-adf5-11e5-9476-d52374a78f0c.png)
 
+四個波形分別為
+1.黃色(yellow)P=1,I=0,D=0
 
+2.紫色(purple)P=5,I=0,D=0
+
+3.藍色(blue)  P=5,I=5,D=0
+
+4.紅色(Red)   P=5,I=5,D=2
 
