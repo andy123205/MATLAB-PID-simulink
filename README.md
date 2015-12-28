@@ -1,6 +1,8 @@
 # MATLAB-PID-simulink
 simulation tutorial for PID controller
 
+![pid](https://cloud.githubusercontent.com/assets/13445632/12025766/f3237312-adec-11e5-949a-95b9f43ffc0a.png)
+
 MATLAB simulink教學
 
 1.先開啟simulink 可以點選紅色圈圈裡的按鈕或是直接輸入simulink在command window裡面
